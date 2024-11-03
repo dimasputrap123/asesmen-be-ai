@@ -1,0 +1,1001 @@
+anggota_kk,pendapatan,kondisi_rumah,sumber_air_minum,akses_listrik,kepemilikan_aset,pekerjaan,status_kepemilikan_rumah,penghasilan_dibawah_ump,aset_produktif,akses_pendidikan,akses_kesehatan,akses_sanitasi,akses_listrik_ump,rumah_tidak_layak_huni,skor_kemiskinan,kategori_asesmen,rekomendasi_bantuan
+7,6316033,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+2,1304719,Semi Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,1,1,0,1,0,55,Miskin,PKH
+8,8343856,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,4808500,Semi Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,1,1,1,0,0,30,Rentan Miskin,BLT
+6,995879,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+5,3467550,Tidak Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,1,0,1,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+3,3415725,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+4,2908978,Semi Permanen,PAM,Tidak Ada,Ada,Petani,Milik Sendiri,1,0,0,1,1,1,0,40,Rentan Miskin,BLT
+2,5619200,Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,1,0,0,30,Rentan Miskin,BLT
+3,9721961,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,0,0,30,Rentan Miskin,BLT
+6,7762461,Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+3,8766164,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+8,2066802,Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,1,0,0,55,Miskin,PKH
+6,3078570,Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,1,0,35,Rentan Miskin,BLT
+1,5916300,Semi Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+2,931613,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,0,0,0,0,0,65,Miskin,PKH
+5,4477628,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,0,0,60,Miskin,PKH
+2,1051615,Tidak Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,0,0,1,85,Sangat Miskin,Bantuan Sembako
+6,5031424,Tidak Permanen,Sungai,PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,1,0,0,1,70,Sangat Miskin,Bantuan Sembako
+8,6049974,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,1,1,60,Miskin,PKH
+7,5011660,Semi Permanen,PAM,Tidak Ada,Ada,Petani,Sewa,0,1,0,0,0,1,0,30,Rentan Miskin,BLT
+3,1990065,Tidak Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+4,1708389,Tidak Permanen,PAM,Tidak Ada,Ada,Petani,Kontrak,1,1,1,1,0,1,1,65,Miskin,PKH
+8,2376893,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Sewa,1,0,0,1,1,1,0,50,Miskin,PKH
+3,3157512,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,0,0,1,1,65,Miskin,PKH
+8,8409978,Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,0,1,0,30,Rentan Miskin,BLT
+3,7630530,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,1,1,0,0,1,1,40,Rentan Miskin,BLT
+6,2484707,Semi Permanen,Sungai,PLN,Tidak Ada,Petani,Kontrak,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+8,9735722,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,1,1,1,1,40,Rentan Miskin,BLT
+1,8648492,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,1,1,1,0,0,1,55,Miskin,PKH
+4,3806064,Semi Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,1,0,0,50,Miskin,PKH
+8,1373157,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Sewa,1,0,0,0,1,1,1,70,Sangat Miskin,Bantuan Sembako
+4,2477455,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,1,1,0,40,Rentan Miskin,BLT
+4,5257280,Tidak Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+6,4241743,Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,1,0,0,0,1,1,0,50,Miskin,PKH
+3,5382723,Semi Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,0,0,0,40,Rentan Miskin,BLT
+2,9228734,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,0,1,1,45,Rentan Miskin,BLT
+4,4455715,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+1,9962970,Tidak Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+2,3324176,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+8,6963278,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,1,1,0,0,30,Rentan Miskin,BLT
+7,1082902,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,1,1,0,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+5,5126664,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Kontrak,0,0,0,0,1,1,0,30,Rentan Miskin,BLT
+5,1926555,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+3,3026841,Tidak Permanen,PAM,PLN,Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,0,1,65,Miskin,PKH
+3,9253156,Tidak Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+4,1587338,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,0,1,1,1,1,1,65,Miskin,PKH
+3,3362758,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,0,1,0,0,55,Miskin,PKH
+3,2257228,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,0,1,1,0,0,0,65,Miskin,PKH
+5,6867252,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+4,2070729,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+1,751128,Permanen,PAM,PLN,Ada,Petani,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+5,7818757,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+5,2713160,Tidak Permanen,Sungai,PLN,Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+4,6653014,Semi Permanen,PAM,Tidak Ada,Ada,Petani,Sewa,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+3,2550450,Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,0,0,65,Miskin,PKH
+1,2171927,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,1,1,1,1,1,65,Miskin,PKH
+5,2383813,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,1,0,0,50,Miskin,PKH
+7,5782548,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,1,1,1,35,Rentan Miskin,BLT
+5,3873771,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+8,3743776,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,1,0,0,60,Miskin,PKH
+6,2272458,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,0,0,60,Miskin,PKH
+5,6416608,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,9082330,Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,0,0,1,0,1,1,0,30,Rentan Miskin,BLT
+7,9694524,Tidak Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,1,1,55,Miskin,PKH
+2,6247404,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+7,4700675,Permanen,Sumur,PLN,Ada,Petani,Kontrak,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+2,4562907,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+6,4104555,Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,1,1,1,1,0,50,Miskin,PKH
+8,9389578,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,0,0,1,1,1,0,1,60,Miskin,PKH
+5,7331264,Tidak Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,1,50,Miskin,PKH
+3,9630238,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+4,2221393,Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,0,1,1,1,0,45,Rentan Miskin,BLT
+2,1892494,Tidak Permanen,Sungai,PLN,Ada,Petani,Kontrak,1,0,0,0,0,0,1,85,Sangat Miskin,Bantuan Sembako
+6,7483174,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+8,6508879,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,0,0,0,1,1,1,50,Miskin,PKH
+6,1060821,Semi Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,0,0,1,0,55,Miskin,PKH
+2,4862147,Semi Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Kontrak,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+1,565217,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,1,1,0,40,Rentan Miskin,BLT
+8,1795749,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,1,0,1,0,0,0,55,Miskin,PKH
+8,913546,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,1,1,0,1,80,Sangat Miskin,Bantuan Sembako
+1,4528469,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+4,2256291,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,0,1,0,1,65,Miskin,PKH
+5,2398804,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,0,0,1,1,0,0,60,Miskin,PKH
+7,6484435,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+4,5491989,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,1,1,1,35,Rentan Miskin,BLT
+1,4779311,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+2,1668489,Tidak Permanen,PAM,PLN,Ada,Petani,Kontrak,1,1,0,0,1,0,1,65,Miskin,PKH
+8,9361928,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,1,50,Miskin,PKH
+3,1959500,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,0,55,Miskin,PKH
+2,1554254,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,1,1,1,0,0,45,Rentan Miskin,BLT
+5,2022426,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,1,0,0,1,0,1,0,60,Miskin,PKH
+5,3088720,Semi Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+6,9826841,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+1,5898040,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,0,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+7,7388474,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,0,0,0,0,50,Miskin,PKH
+6,4295772,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Sewa,1,1,0,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+8,1934013,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,0,0,1,0,60,Miskin,PKH
+1,2769511,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,0,1,1,0,0,55,Miskin,PKH
+5,2323596,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,0,1,1,0,40,Rentan Miskin,BLT
+5,5039354,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,1,1,0,0,0,50,Miskin,PKH
+1,4110202,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+1,1022936,Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,0,0,55,Miskin,PKH
+4,7794722,Semi Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+2,8760999,Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Sewa,0,0,0,1,1,0,0,35,Rentan Miskin,BLT
+5,5821634,Semi Permanen,Sumur,PLN,Ada,Petani,Milik Sendiri,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+3,8113962,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,1,1,0,1,55,Miskin,PKH
+6,6584810,Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,1,0,30,Rentan Miskin,BLT
+8,2519423,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,1,0,0,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+2,1493186,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,0,0,1,0,0,55,Miskin,PKH
+8,3928237,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,1,1,0,0,50,Miskin,PKH
+7,2240979,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,0,0,1,0,0,60,Miskin,PKH
+4,3274126,Semi Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,1,1,0,1,0,40,Rentan Miskin,BLT
+1,3679951,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,0,0,0,55,Miskin,PKH
+8,1633781,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,0,1,0,1,65,Miskin,PKH
+7,4912136,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,0,1,0,0,0,1,0,30,Rentan Miskin,BLT
+7,8834671,Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+2,7851487,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+3,7454627,Permanen,Sumur,PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+4,4174075,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,0,1,0,0,0,50,Miskin,PKH
+3,6010821,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+2,840116,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Kontrak,1,0,1,1,0,1,0,55,Miskin,PKH
+6,4055934,Semi Permanen,PAM,PLN,Ada,Petani,Kontrak,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+4,7204709,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,1,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+7,5194103,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,0,0,0,0,0,0,50,Miskin,PKH
+7,4477503,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Kontrak,1,1,1,0,0,1,0,50,Miskin,PKH
+8,984156,Semi Permanen,PAM,Tidak Ada,Ada,Petani,Kontrak,1,0,1,0,0,1,0,60,Miskin,PKH
+6,1586683,Tidak Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,1,0,1,1,1,0,1,80,Sangat Miskin,Bantuan Sembako
+6,6283042,Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+5,3020217,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,0,0,1,0,50,Miskin,PKH
+6,8643392,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,0,1,1,0,1,50,Miskin,PKH
+8,7477288,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,1,0,0,40,Rentan Miskin,BLT
+4,9523261,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,0,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+2,6388342,Semi Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+5,1859358,Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,1,0,35,Rentan Miskin,BLT
+8,2485123,Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,0,0,0,0,65,Miskin,PKH
+2,2328714,Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,1,1,1,0,1,0,45,Rentan Miskin,BLT
+6,7990852,Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Kontrak,0,0,1,1,0,1,0,40,Rentan Miskin,BLT
+5,8530930,Semi Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+7,6676928,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,0,1,0,0,40,Rentan Miskin,BLT
+7,4183228,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+7,4484042,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,1,1,1,1,0,0,50,Miskin,PKH
+5,2839024,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+3,9396159,Tidak Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,1,0,1,1,40,Rentan Miskin,BLT
+7,5034543,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+8,9255399,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,0,1,0,0,40,Rentan Miskin,BLT
+6,684538,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+4,1977005,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,0,0,0,60,Miskin,PKH
+2,8829873,Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,1,0,0,0,30,Rentan Miskin,BLT
+7,3622620,Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,0,55,Miskin,PKH
+1,5289277,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,0,0,0,0,1,65,Miskin,PKH
+4,3910523,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,0,50,Miskin,PKH
+4,9809443,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+2,4101922,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,0,0,1,0,0,55,Miskin,PKH
+6,669505,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,0,0,0,0,0,60,Miskin,PKH
+5,5350492,Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,0,0,0,0,40,Rentan Miskin,BLT
+8,7927910,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+3,6411466,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+3,2528581,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,1,1,1,0,1,1,65,Miskin,PKH
+1,2995746,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,1,1,1,0,1,1,60,Miskin,PKH
+4,6766963,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,0,1,1,0,0,0,1,55,Miskin,PKH
+4,6528354,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+4,6709481,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,0,0,1,0,35,Rentan Miskin,BLT
+8,1731906,Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,1,1,0,45,Rentan Miskin,BLT
+6,7096330,Tidak Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,0,1,1,55,Miskin,PKH
+7,2782759,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,1,0,0,0,60,Miskin,PKH
+8,4851576,Tidak Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,0,1,0,0,1,70,Sangat Miskin,Bantuan Sembako
+8,3318072,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,1,0,0,1,0,0,1,90,Sangat Miskin,Bantuan Sembako
+4,5929159,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,0,1,1,1,40,Rentan Miskin,BLT
+4,4812548,Semi Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+6,4669493,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+8,761106,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,1,1,1,0,0,60,Miskin,PKH
+2,797490,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,0,1,1,0,1,0,55,Miskin,PKH
+6,8623255,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,0,0,0,0,50,Miskin,PKH
+1,4448537,Tidak Permanen,Sumur,PLN,Ada,Petani,Milik Sendiri,1,1,1,1,1,0,1,60,Miskin,PKH
+3,9141015,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,1,0,1,1,55,Miskin,PKH
+2,1638429,Semi Permanen,Sungai,PLN,Tidak Ada,Petani,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+8,3643229,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,0,60,Miskin,PKH
+6,5870946,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,1,0,0,0,50,Miskin,PKH
+2,8064015,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,0,0,1,65,Miskin,PKH
+2,7723522,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,0,0,1,60,Miskin,PKH
+1,1233115,Tidak Permanen,Sungai,PLN,Ada,Petani,Milik Sendiri,1,1,0,1,0,0,1,70,Sangat Miskin,Bantuan Sembako
+3,6501742,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+1,5682679,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Sewa,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+7,2527351,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,0,1,0,0,60,Miskin,PKH
+2,8030926,Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,0,0,0,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+2,5228192,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,0,1,0,0,1,1,55,Miskin,PKH
+1,4447079,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,0,0,65,Miskin,PKH
+8,2318338,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,1,0,0,0,0,0,60,Miskin,PKH
+1,4921614,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,1,1,0,1,1,45,Rentan Miskin,BLT
+7,5266346,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+7,3188619,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,0,0,1,1,80,Sangat Miskin,Bantuan Sembako
+4,3710416,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,0,1,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+3,7800770,Semi Permanen,Sungai,Tidak Ada,Ada,Petani,Kontrak,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+4,9830421,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,0,1,50,Miskin,PKH
+3,6608872,Semi Permanen,PAM,PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,0,0,0,0,30,Rentan Miskin,BLT
+7,7631012,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Petani,Sewa,0,1,1,1,1,0,1,50,Miskin,PKH
+6,2492416,Permanen,Sumur,PLN,Ada,Pedagang Kecil,Sewa,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+8,5751142,Semi Permanen,Sungai,PLN,Tidak Ada,Petani,Sewa,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+4,4467253,Permanen,Sungai,PLN,Ada,Petani,Milik Sendiri,1,1,0,1,1,0,0,40,Rentan Miskin,BLT
+3,3886729,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,0,1,0,0,1,0,50,Miskin,PKH
+4,5494461,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,0,1,1,0,1,45,Rentan Miskin,BLT
+8,7402348,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+2,992139,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+2,9731166,Semi Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+3,8428853,Permanen,Sumur,PLN,Ada,Pegawai Swasta,Sewa,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+3,521473,Semi Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,1,1,0,40,Rentan Miskin,BLT
+3,2141924,Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,0,0,0,1,0,0,55,Miskin,PKH
+6,3437895,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+3,5028494,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,1,0,1,50,Miskin,PKH
+3,3597577,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,0,55,Miskin,PKH
+4,2227413,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,1,0,0,0,50,Miskin,PKH
+7,2641437,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,1,1,0,45,Rentan Miskin,BLT
+3,8599266,Permanen,PAM,PLN,Ada,Petani,Sewa,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+7,6497605,Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+7,5467575,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Kontrak,0,1,1,0,1,0,1,50,Miskin,PKH
+1,900932,Tidak Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,0,1,1,1,50,Miskin,PKH
+6,4119548,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,1,1,0,0,60,Miskin,PKH
+7,7568711,Semi Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,1,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,3780217,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,0,1,0,1,65,Miskin,PKH
+6,8947118,Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+8,5521097,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,0,0,1,0,1,0,1,60,Miskin,PKH
+6,6381221,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,0,1,1,60,Miskin,PKH
+1,6889841,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+2,9482833,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+3,5179616,Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+2,6350956,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+8,2141825,Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,1,0,55,Miskin,PKH
+7,8961377,Permanen,PAM,PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+7,2203673,Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,1,1,0,0,0,1,0,50,Miskin,PKH
+1,1122878,Semi Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,1,1,0,0,1,1,0,35,Rentan Miskin,BLT
+6,3673492,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,0,1,0,0,55,Miskin,PKH
+2,966188,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,0,1,0,50,Miskin,PKH
+8,8087419,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,0,0,0,40,Rentan Miskin,BLT
+5,3499175,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Sewa,1,0,1,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+6,8346905,Permanen,Sungai,PLN,Tidak Ada,Petani,Sewa,0,1,1,0,0,0,0,40,Rentan Miskin,BLT
+7,6937439,Semi Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,0,1,0,0,40,Rentan Miskin,BLT
+3,2656467,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Sewa,1,1,1,0,1,1,0,35,Rentan Miskin,BLT
+6,6592490,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,1,1,55,Miskin,PKH
+7,5425187,Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,0,0,0,0,50,Miskin,PKH
+6,4331130,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+4,3599304,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Sewa,1,0,0,0,1,1,0,45,Rentan Miskin,BLT
+3,8448231,Semi Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,1,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+1,7407123,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+5,6866214,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,0,0,0,1,1,0,1,60,Miskin,PKH
+3,4196966,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,0,0,0,0,0,65,Miskin,PKH
+5,2590094,Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,1,0,1,1,0,1,0,60,Miskin,PKH
+4,7438826,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,0,1,1,1,1,0,1,40,Rentan Miskin,BLT
+8,3202385,Tidak Permanen,PAM,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,1,1,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+5,7128224,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+5,2686686,Semi Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,1,0,0,55,Miskin,PKH
+6,5675953,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,1,0,1,1,0,30,Rentan Miskin,BLT
+7,8718731,Tidak Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,1,0,0,1,1,1,35,Rentan Miskin,BLT
+1,5623179,Semi Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+1,8513617,Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+7,709775,Permanen,Sumur,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,1,0,0,1,0,0,45,Rentan Miskin,BLT
+3,2989181,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,1,0,1,1,0,1,65,Miskin,PKH
+8,3790399,Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,1,0,50,Miskin,PKH
+8,6448058,Semi Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,1,0,0,1,0,40,Rentan Miskin,BLT
+8,5194735,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,0,0,0,0,1,1,60,Miskin,PKH
+7,8863869,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,1,1,1,0,30,Rentan Miskin,BLT
+7,9234543,Semi Permanen,Sungai,PLN,Ada,Petani,Milik Sendiri,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+4,3677032,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+8,8435679,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+6,2578602,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,1,1,1,65,Miskin,PKH
+4,9406989,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Kontrak,0,0,0,0,1,0,1,55,Miskin,PKH
+2,9703426,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,1,1,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,6347149,Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,1,0,0,0,50,Miskin,PKH
+6,3405117,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,0,0,1,0,0,60,Miskin,PKH
+1,839614,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,0,1,0,1,65,Miskin,PKH
+8,1668710,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+1,9695860,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,0,1,1,0,1,0,1,45,Rentan Miskin,BLT
+1,2333982,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,1,0,0,50,Miskin,PKH
+7,1728225,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,0,1,1,65,Miskin,PKH
+3,6247989,Semi Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+7,4598446,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Kontrak,0,1,0,0,1,0,1,50,Miskin,PKH
+5,4702694,Semi Permanen,Sumur,PLN,Ada,Pedagang Kecil,Sewa,0,1,0,0,0,0,0,40,Rentan Miskin,BLT
+7,3903024,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,1,0,1,0,0,60,Miskin,PKH
+4,7702957,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+1,2656748,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,0,0,0,60,Miskin,PKH
+8,4893953,Tidak Permanen,PAM,PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,1,1,0,1,60,Miskin,PKH
+5,4095168,Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,1,0,0,1,0,0,50,Miskin,PKH
+7,5002788,Tidak Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+7,2264248,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,1,0,0,1,0,1,0,60,Miskin,PKH
+6,9155042,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,0,0,0,0,50,Miskin,PKH
+2,3286019,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,0,1,1,1,60,Miskin,PKH
+1,8188630,Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,5634525,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,0,0,0,0,30,Rentan Miskin,BLT
+6,8989507,Tidak Permanen,Sungai,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,0,0,1,55,Miskin,PKH
+4,1091758,Tidak Permanen,Sumur,PLN,Ada,Petani,Kontrak,1,0,1,1,1,0,1,75,Sangat Miskin,Bantuan Sembako
+7,5936549,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,0,1,1,55,Miskin,PKH
+8,1623347,Tidak Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,0,0,1,85,Sangat Miskin,Bantuan Sembako
+6,3384284,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+2,9162469,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,1,45,Rentan Miskin,BLT
+3,8852777,Tidak Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,1,1,55,Miskin,PKH
+3,8345012,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,0,1,50,Miskin,PKH
+5,8057707,Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+3,9663777,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+7,3415315,Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,1,0,1,0,1,0,45,Rentan Miskin,BLT
+2,2450173,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+4,7919558,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+6,2265482,Semi Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,1,0,0,55,Miskin,PKH
+5,2245444,Permanen,PAM,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,0,1,0,0,45,Rentan Miskin,BLT
+7,6861795,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+3,3073379,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,1,1,0,40,Rentan Miskin,BLT
+6,7638875,Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,6867191,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,1,0,30,Rentan Miskin,BLT
+2,4867255,Semi Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,1,1,0,0,35,Rentan Miskin,BLT
+8,8376686,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,1,0,30,Rentan Miskin,BLT
+4,3929144,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,1,1,50,Miskin,PKH
+7,5840660,Semi Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+5,2359213,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,0,0,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+6,2474755,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+6,1673592,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,0,1,1,70,Sangat Miskin,Bantuan Sembako
+5,7757574,Tidak Permanen,Sungai,PLN,Ada,Pegawai Swasta,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+7,6062862,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,1,0,0,1,0,40,Rentan Miskin,BLT
+2,3970319,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,1,1,0,0,1,0,40,Rentan Miskin,BLT
+3,8123424,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+7,6136223,Semi Permanen,Sumur,PLN,Ada,Petani,Milik Sendiri,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+7,4885220,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,0,0,1,1,0,1,55,Miskin,PKH
+6,3394307,Tidak Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,1,1,0,1,80,Sangat Miskin,Bantuan Sembako
+6,1314549,Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+5,1394770,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,0,0,1,0,0,60,Miskin,PKH
+7,5075496,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,0,1,0,1,50,Miskin,PKH
+5,8007990,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+7,1782572,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,1,1,0,35,Rentan Miskin,BLT
+8,5081543,Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,0,1,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+1,1591371,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,0,1,1,1,0,30,Rentan Miskin,BLT
+2,4660036,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,0,0,0,0,1,65,Miskin,PKH
+1,819202,Permanen,PAM,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,0,0,0,60,Miskin,PKH
+2,8475763,Tidak Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,0,1,0,1,50,Miskin,PKH
+2,3790949,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,0,0,55,Miskin,PKH
+4,8157296,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+4,8988393,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,0,40,Rentan Miskin,BLT
+4,7240338,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,0,1,1,40,Rentan Miskin,BLT
+3,2460500,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,0,0,0,1,0,0,50,Miskin,PKH
+2,9937901,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,0,1,50,Miskin,PKH
+3,8048534,Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,0,0,0,40,Rentan Miskin,BLT
+6,2965948,Semi Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,1,0,0,0,60,Miskin,PKH
+4,7002757,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+7,530832,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+6,847999,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+6,1247665,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,1,0,0,55,Miskin,PKH
+7,9052470,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,0,1,1,0,0,0,50,Miskin,PKH
+6,5206942,Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,1,0,0,0,1,0,30,Rentan Miskin,BLT
+1,4282928,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,0,55,Miskin,PKH
+8,4364123,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,0,0,0,55,Miskin,PKH
+1,5022650,Tidak Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,1,0,0,1,65,Miskin,PKH
+6,5096487,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,0,1,1,0,30,Rentan Miskin,BLT
+2,8526701,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Milik Sendiri,0,0,1,0,1,1,1,40,Rentan Miskin,BLT
+1,5178615,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+3,1755909,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+7,3921194,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,0,1,0,55,Miskin,PKH
+4,8341152,Semi Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+4,8411674,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,0,0,0,30,Rentan Miskin,BLT
+7,7048871,Semi Permanen,Sungai,PLN,Tidak Ada,Petani,Sewa,0,1,0,1,1,0,0,30,Rentan Miskin,BLT
+4,4189800,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,1,0,0,0,65,Miskin,PKH
+1,9235968,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+1,9601887,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+6,2243301,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,0,0,0,0,0,60,Miskin,PKH
+4,641801,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,0,0,0,60,Miskin,PKH
+6,4993558,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,1,0,0,30,Rentan Miskin,BLT
+3,3421747,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+2,5242160,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,0,1,50,Miskin,PKH
+1,7774414,Semi Permanen,Sungai,PLN,Tidak Ada,Petani,Milik Sendiri,0,0,1,1,0,0,0,40,Rentan Miskin,BLT
+3,5290974,Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+4,2911319,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,1,1,0,0,0,50,Miskin,PKH
+7,6106399,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,1,0,40,Rentan Miskin,BLT
+8,5203202,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,0,1,0,1,1,60,Miskin,PKH
+6,1862476,Tidak Permanen,PAM,PLN,Ada,Pedagang Kecil,Sewa,1,0,1,1,1,0,1,80,Sangat Miskin,Bantuan Sembako
+5,8221746,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+1,3401859,Tidak Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,1,0,0,0,1,1,65,Miskin,PKH
+3,5414586,Semi Permanen,Sungai,PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+4,3130281,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,0,0,0,0,0,50,Miskin,PKH
+5,1858938,Tidak Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Sewa,1,0,1,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+8,6904800,Semi Permanen,PAM,PLN,Ada,Petani,Kontrak,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+2,5911278,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+1,2559227,Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,0,65,Miskin,PKH
+2,7092705,Semi Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Kontrak,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,8360606,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,1,0,40,Rentan Miskin,BLT
+7,1047121,Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,1,1,0,1,0,45,Rentan Miskin,BLT
+3,1767746,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,1,1,0,0,1,70,Sangat Miskin,Bantuan Sembako
+4,7397049,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+1,8958892,Semi Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,0,1,1,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+3,1398894,Tidak Permanen,Sumur,PLN,Ada,Petani,Milik Sendiri,1,0,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+7,1069886,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,1,1,1,70,Sangat Miskin,Bantuan Sembako
+5,1397199,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,1,0,60,Miskin,PKH
+5,2322335,Permanen,PAM,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+7,5997886,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,0,0,0,0,50,Miskin,PKH
+3,7347707,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+8,2391895,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,1,0,1,65,Miskin,PKH
+5,3103390,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,0,1,0,1,0,0,55,Miskin,PKH
+8,5084088,Permanen,PAM,PLN,Tidak Ada,Petani,Milik Sendiri,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+2,8343267,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,0,1,50,Miskin,PKH
+6,9145528,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+3,6498001,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+4,1952686,Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,1,0,0,45,Rentan Miskin,BLT
+4,1436187,Semi Permanen,Sungai,PLN,Ada,Pegawai Swasta,Sewa,1,0,0,0,0,0,0,65,Miskin,PKH
+7,671775,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,1,0,1,0,0,0,60,Miskin,PKH
+3,9497862,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+4,7251514,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Kontrak,0,0,0,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+4,6993974,Tidak Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,0,0,1,65,Miskin,PKH
+8,7198683,Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+5,2278531,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+5,996050,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+8,8743687,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+5,6559384,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+5,5445680,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,0,1,1,1,0,1,60,Miskin,PKH
+6,9355337,Tidak Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,1,0,1,45,Rentan Miskin,BLT
+7,6425119,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,1,0,0,1,55,Miskin,PKH
+2,7332686,Semi Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+8,3852629,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,1,0,60,Miskin,PKH
+1,4355719,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,1,0,0,0,0,65,Miskin,PKH
+2,4453825,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,1,0,0,50,Miskin,PKH
+1,6149014,Tidak Permanen,PAM,PLN,Ada,Petani,Kontrak,0,1,0,0,0,0,1,55,Miskin,PKH
+6,1666345,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,0,0,1,0,0,45,Rentan Miskin,BLT
+2,3372320,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,0,0,0,50,Miskin,PKH
+8,760800,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,1,1,0,0,0,0,0,55,Miskin,PKH
+4,2286780,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,0,1,0,0,55,Miskin,PKH
+7,5322216,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+2,921550,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,1,1,1,0,0,0,55,Miskin,PKH
+5,1238745,Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+2,6154491,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,0,0,0,30,Rentan Miskin,BLT
+5,4124443,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Kontrak,1,0,1,1,0,1,1,80,Sangat Miskin,Bantuan Sembako
+5,1772863,Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,1,0,0,0,0,1,0,60,Miskin,PKH
+6,2861699,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+8,4571629,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,1,1,1,50,Miskin,PKH
+4,3098516,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Kontrak,1,1,1,0,1,0,1,65,Miskin,PKH
+7,4840901,Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,1,0,0,0,0,50,Miskin,PKH
+8,975752,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Milik Sendiri,1,1,1,0,0,1,1,65,Miskin,PKH
+7,8055100,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+2,9456623,Semi Permanen,PAM,Tidak Ada,Ada,Petani,Milik Sendiri,0,0,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,7185010,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,0,1,0,0,1,55,Miskin,PKH
+1,8989465,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,0,0,30,Rentan Miskin,BLT
+2,1149272,Tidak Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,1,1,0,1,60,Miskin,PKH
+8,3787053,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,1,1,0,0,1,1,70,Sangat Miskin,Bantuan Sembako
+1,2800066,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,1,0,1,0,45,Rentan Miskin,BLT
+4,5230570,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+7,2923468,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,1,0,1,1,0,0,1,90,Sangat Miskin,Bantuan Sembako
+7,5623586,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,1,0,0,30,Rentan Miskin,BLT
+8,1511508,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,0,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+4,7390911,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+2,7517598,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,0,1,0,20,Tidak Miskin,Tidak Layak Menerima
+8,6781886,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+1,1441001,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,0,65,Miskin,PKH
+4,6674920,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+2,7067496,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+8,7902735,Tidak Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,0,1,1,0,1,0,1,50,Miskin,PKH
+8,923468,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,1,1,0,0,0,60,Miskin,PKH
+2,943569,Semi Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,0,0,55,Miskin,PKH
+4,5984603,Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+6,6934114,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,1,65,Miskin,PKH
+1,3016222,Tidak Permanen,Sumur,PLN,Ada,Pegawai Swasta,Sewa,1,1,1,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+7,8655640,Permanen,Sumur,PLN,Ada,Pegawai Swasta,Kontrak,0,0,0,1,0,0,0,50,Miskin,PKH
+1,8189450,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+5,1314654,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+6,1754318,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,0,1,0,55,Miskin,PKH
+8,4313689,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,1,1,60,Miskin,PKH
+2,7420120,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,0,0,1,1,0,0,1,65,Miskin,PKH
+6,4848912,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Kontrak,0,1,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+6,1598889,Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,0,0,1,0,60,Miskin,PKH
+4,9544657,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,1,0,0,0,1,55,Miskin,PKH
+6,8071780,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,0,1,1,0,30,Rentan Miskin,BLT
+5,8341630,Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+5,3550866,Semi Permanen,Sumur,PLN,Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,0,0,60,Miskin,PKH
+4,4841714,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,1,0,1,1,40,Rentan Miskin,BLT
+5,1791844,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,1,0,0,1,85,Sangat Miskin,Bantuan Sembako
+2,4375361,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+1,8312989,Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,0,0,0,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,4646153,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,1,1,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+1,5464088,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,1,1,0,1,1,55,Miskin,PKH
+3,2678428,Tidak Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+6,5661954,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,0,0,1,1,0,0,40,Rentan Miskin,BLT
+5,3890447,Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,0,0,1,0,45,Rentan Miskin,BLT
+2,2323328,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,1,1,0,45,Rentan Miskin,BLT
+1,4719189,Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,0,1,0,30,Rentan Miskin,BLT
+7,1959449,Tidak Permanen,PAM,Tidak Ada,Ada,Petani,Kontrak,1,1,1,1,0,1,1,70,Sangat Miskin,Bantuan Sembako
+6,3315409,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,1,0,0,0,0,0,1,85,Sangat Miskin,Bantuan Sembako
+5,8706068,Permanen,Sumur,PLN,Ada,Petani,Sewa,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+2,5213610,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+3,1921411,Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,0,1,1,1,0,45,Rentan Miskin,BLT
+6,8376654,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,0,1,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+6,5243731,Semi Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+8,5839335,Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+2,7305351,Tidak Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,0,1,55,Miskin,PKH
+7,9809483,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+2,7310966,Tidak Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,1,1,0,0,1,1,45,Rentan Miskin,BLT
+4,8223206,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,0,1,0,1,1,1,45,Rentan Miskin,BLT
+8,6705223,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,1,1,1,0,30,Rentan Miskin,BLT
+3,4059090,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,1,0,1,0,0,55,Miskin,PKH
+6,9684032,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Milik Sendiri,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,9805225,Semi Permanen,Sumur,PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,0,0,50,Miskin,PKH
+3,1218415,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,0,0,1,1,0,0,50,Miskin,PKH
+6,1705159,Tidak Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+1,4174767,Semi Permanen,Sungai,PLN,Ada,Pedagang Kecil,Kontrak,1,1,1,1,0,0,0,55,Miskin,PKH
+5,9691161,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+2,8561573,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,1,1,1,30,Rentan Miskin,BLT
+6,9607070,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+6,2384393,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,0,1,1,0,0,60,Miskin,PKH
+7,9913926,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,1,1,1,45,Rentan Miskin,BLT
+1,1372079,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,0,0,0,0,0,55,Miskin,PKH
+1,3238034,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,0,0,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+8,609944,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+7,1832104,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,1,1,1,0,0,60,Miskin,PKH
+3,4356890,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+6,5702283,Tidak Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+5,1627813,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,0,0,50,Miskin,PKH
+1,2291601,Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,1,1,1,0,1,0,40,Rentan Miskin,BLT
+7,2668860,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,1,0,0,0,0,60,Miskin,PKH
+8,4594584,Tidak Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,0,1,0,0,0,1,1,50,Miskin,PKH
+4,5643452,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,0,1,0,1,45,Rentan Miskin,BLT
+2,8201974,Permanen,Sungai,PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,0,0,30,Rentan Miskin,BLT
+7,5378372,Tidak Permanen,Sumur,PLN,Ada,Pegawai Swasta,Kontrak,0,0,0,0,1,0,1,60,Miskin,PKH
+1,2094675,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,1,1,1,50,Miskin,PKH
+1,5686938,Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+6,9589373,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,0,0,0,45,Rentan Miskin,BLT
+4,1405976,Tidak Permanen,Sungai,PLN,Tidak Ada,Petani,Sewa,1,1,0,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+6,8522836,Semi Permanen,PAM,PLN,Ada,Petani,Sewa,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+7,1685328,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,1,0,0,1,1,1,0,50,Miskin,PKH
+3,945436,Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+7,8535522,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+1,8756681,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,1,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+8,9980121,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,0,0,0,1,65,Miskin,PKH
+1,4698081,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,1,0,1,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+1,5429058,Semi Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+6,8966562,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+2,7803013,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+4,1457754,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,0,0,1,0,45,Rentan Miskin,BLT
+6,1142007,Tidak Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,1,1,0,1,1,1,1,60,Miskin,PKH
+8,6339071,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,1,0,0,1,0,40,Rentan Miskin,BLT
+4,7016639,Permanen,Sungai,PLN,Ada,Petani,Sewa,0,1,0,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+2,9038229,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,0,0,0,1,50,Miskin,PKH
+3,6649244,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,3949142,Semi Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,1,0,35,Rentan Miskin,BLT
+8,4830293,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,1,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+1,7107990,Permanen,Sungai,PLN,Ada,Petani,Kontrak,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+7,8463444,Tidak Permanen,Sungai,PLN,Ada,Petani,Kontrak,0,1,1,0,0,0,1,60,Miskin,PKH
+3,2361703,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+4,3044941,Tidak Permanen,Sumur,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+7,4115073,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+7,8386198,Tidak Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,0,0,1,1,1,0,1,60,Miskin,PKH
+4,3039300,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,1,1,1,1,1,0,35,Rentan Miskin,BLT
+7,2763162,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,1,0,0,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+2,1945664,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,0,1,1,0,0,0,60,Miskin,PKH
+8,4233911,Permanen,PAM,Tidak Ada,Ada,Petani,Milik Sendiri,1,1,1,1,1,1,0,35,Rentan Miskin,BLT
+8,2486166,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,1,1,1,0,1,0,50,Miskin,PKH
+3,4115158,Tidak Permanen,Sumur,Tidak Ada,Ada,Petani,Milik Sendiri,1,0,1,0,0,1,1,70,Sangat Miskin,Bantuan Sembako
+5,7458809,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,1,0,0,0,50,Miskin,PKH
+1,3727007,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,1,1,0,1,75,Sangat Miskin,Bantuan Sembako
+8,7788527,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+8,5789534,Semi Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+2,9860502,Tidak Permanen,Sungai,PLN,Tidak Ada,Petani,Milik Sendiri,0,0,0,0,1,0,1,50,Miskin,PKH
+3,6376083,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,0,1,0,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+4,1091891,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,0,1,1,1,0,0,55,Miskin,PKH
+3,923636,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,1,1,0,1,65,Miskin,PKH
+7,4515432,Tidak Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,0,1,55,Miskin,PKH
+8,6048717,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,0,0,1,65,Miskin,PKH
+7,2181012,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,1,0,0,0,0,1,80,Sangat Miskin,Bantuan Sembako
+5,1279345,Semi Permanen,Sungai,PLN,Ada,Pedagang Kecil,Sewa,1,1,1,1,1,0,0,50,Miskin,PKH
+2,9882283,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,1,0,1,50,Miskin,PKH
+4,1135089,Semi Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,0,1,0,1,0,40,Rentan Miskin,BLT
+3,7241319,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,1,0,0,0,1,0,20,Tidak Miskin,Tidak Layak Menerima
+8,4507868,Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+5,6388864,Semi Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+6,4156449,Tidak Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,0,0,1,0,0,1,90,Sangat Miskin,Bantuan Sembako
+5,9619990,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,0,0,1,55,Miskin,PKH
+8,1438305,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,0,1,1,75,Sangat Miskin,Bantuan Sembako
+4,9583411,Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+7,9540851,Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,0,0,0,0,0,45,Rentan Miskin,BLT
+8,8257181,Tidak Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,1,50,Miskin,PKH
+5,7782566,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,0,0,0,0,40,Rentan Miskin,BLT
+8,3890251,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,0,1,0,0,50,Miskin,PKH
+5,7939719,Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,0,1,1,0,0,40,Rentan Miskin,BLT
+7,7288776,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,0,1,0,0,40,Rentan Miskin,BLT
+4,6645642,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,0,1,0,1,1,0,1,45,Rentan Miskin,BLT
+5,6516012,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Kontrak,0,1,0,0,1,1,1,40,Rentan Miskin,BLT
+8,8622369,Permanen,Sumur,PLN,Tidak Ada,Petani,Kontrak,0,0,1,1,0,0,0,50,Miskin,PKH
+7,1603202,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+8,4988913,Permanen,PAM,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+6,971679,Permanen,Sumur,PLN,Tidak Ada,Petani,Sewa,1,1,0,1,0,0,0,60,Miskin,PKH
+1,5055743,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,0,0,1,65,Miskin,PKH
+4,5253816,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,0,0,0,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+5,8166108,Permanen,PAM,PLN,Ada,Petani,Kontrak,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+7,8146860,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,1,0,1,60,Miskin,PKH
+2,8571349,Permanen,Sumur,PLN,Tidak Ada,Petani,Kontrak,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+8,8448846,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,0,1,1,0,30,Rentan Miskin,BLT
+1,3431314,Semi Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,1,1,0,1,0,0,0,55,Miskin,PKH
+8,3224668,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+5,4839191,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+2,3065603,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,1,0,0,1,1,0,1,75,Sangat Miskin,Bantuan Sembako
+3,6440949,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,0,0,0,0,30,Rentan Miskin,BLT
+4,8560110,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+4,9470175,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+4,7584340,Permanen,Sungai,PLN,Ada,Pedagang Kecil,Kontrak,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+2,2475472,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+4,7595267,Tidak Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,0,1,1,40,Rentan Miskin,BLT
+5,9150415,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,0,0,1,65,Miskin,PKH
+3,5674430,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,1302812,Permanen,Sungai,Tidak Ada,Ada,Petani,Kontrak,1,0,1,0,1,1,0,50,Miskin,PKH
+6,5414154,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,1,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,5827405,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+4,7854768,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,0,0,1,0,0,1,65,Miskin,PKH
+5,3872884,Tidak Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,1,0,0,0,1,1,1,70,Sangat Miskin,Bantuan Sembako
+1,9780250,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,0,0,45,Rentan Miskin,BLT
+5,3373132,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,0,0,1,1,80,Sangat Miskin,Bantuan Sembako
+8,9896842,Semi Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+5,1712395,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Sewa,1,1,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+8,6920580,Tidak Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,0,1,1,60,Miskin,PKH
+4,6466991,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,0,0,1,60,Miskin,PKH
+5,7160550,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+4,8939376,Permanen,PAM,Listrik Non-PLN,Ada,Petani,Sewa,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,7984342,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,1,0,0,0,0,1,60,Miskin,PKH
+8,2957925,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,0,0,1,0,45,Rentan Miskin,BLT
+5,6788315,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Sewa,0,1,0,0,0,0,0,40,Rentan Miskin,BLT
+2,2124306,Permanen,Sungai,PLN,Ada,Pedagang Kecil,Sewa,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+4,5690276,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,0,0,0,40,Rentan Miskin,BLT
+7,564471,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,1,0,0,0,60,Miskin,PKH
+6,5442300,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+3,4593736,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,1,1,1,0,1,1,45,Rentan Miskin,BLT
+6,4700339,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,1,0,1,55,Miskin,PKH
+7,6053671,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,7209951,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,0,0,0,1,0,40,Rentan Miskin,BLT
+6,6345814,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,0,1,0,0,1,0,1,50,Miskin,PKH
+5,3068810,Tidak Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Sewa,1,1,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+8,3338218,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,1,1,60,Miskin,PKH
+7,5206875,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,0,0,1,65,Miskin,PKH
+4,9609486,Tidak Permanen,Sumur,PLN,Ada,Petani,Milik Sendiri,0,1,1,1,1,0,1,40,Rentan Miskin,BLT
+7,5809405,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,0,0,1,1,0,0,40,Rentan Miskin,BLT
+5,8732771,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+5,4777167,Semi Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,1,1,0,30,Rentan Miskin,BLT
+3,9552118,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,1,0,0,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+3,3648923,Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,1,0,0,0,0,0,55,Miskin,PKH
+1,1559386,Semi Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,0,0,0,1,0,0,50,Miskin,PKH
+4,7990318,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Kontrak,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+1,1472062,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,0,0,0,0,0,0,65,Miskin,PKH
+8,1384149,Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,1,1,0,0,1,0,45,Rentan Miskin,BLT
+2,923718,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,1,0,0,0,0,65,Miskin,PKH
+8,3682308,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+6,1283459,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,0,0,0,65,Miskin,PKH
+3,1427276,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Kontrak,1,1,1,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+4,5227326,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,1,1,0,1,55,Miskin,PKH
+8,852270,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,1,1,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+1,2568363,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,1,1,1,1,0,0,40,Rentan Miskin,BLT
+2,4463551,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,0,1,1,75,Sangat Miskin,Bantuan Sembako
+2,988952,Permanen,Sungai,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,0,0,0,60,Miskin,PKH
+3,3131134,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Kontrak,1,0,0,1,1,0,0,55,Miskin,PKH
+2,8179934,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,1,1,0,1,55,Miskin,PKH
+6,2456951,Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,0,0,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+1,7724778,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+7,1022133,Semi Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,0,0,0,65,Miskin,PKH
+3,7507956,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+3,6700296,Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,0,1,0,0,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+5,8350554,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,0,0,0,1,0,1,60,Miskin,PKH
+6,2804190,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,1,1,0,1,1,0,40,Rentan Miskin,BLT
+8,1204380,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,0,0,1,85,Sangat Miskin,Bantuan Sembako
+1,3713503,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,1,1,1,0,0,0,50,Miskin,PKH
+4,1282854,Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,0,0,0,0,0,55,Miskin,PKH
+1,3963269,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,0,0,0,0,0,1,85,Sangat Miskin,Bantuan Sembako
+7,9937789,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,1,1,0,0,30,Rentan Miskin,BLT
+1,1446844,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,1,1,0,0,40,Rentan Miskin,BLT
+3,6423407,Tidak Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,0,0,1,60,Miskin,PKH
+6,727193,Permanen,Sumur,PLN,Ada,Petani,Sewa,1,1,0,1,1,0,0,50,Miskin,PKH
+7,6405397,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,1,0,0,30,Rentan Miskin,BLT
+8,6462815,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+1,1513431,Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,0,1,1,0,40,Rentan Miskin,BLT
+1,8476881,Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,0,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,9231749,Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,0,1,1,0,0,35,Rentan Miskin,BLT
+4,3377619,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,0,0,0,60,Miskin,PKH
+5,6449441,Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,0,0,1,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+7,1506772,Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,0,0,0,65,Miskin,PKH
+2,4357450,Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,0,1,0,0,55,Miskin,PKH
+8,2628444,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,0,1,0,0,50,Miskin,PKH
+5,3392294,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+2,2270476,Semi Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,0,0,0,0,55,Miskin,PKH
+2,6563911,Tidak Permanen,Sungai,PLN,Ada,Pegawai Swasta,Kontrak,0,1,1,0,0,0,1,55,Miskin,PKH
+4,2789131,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,0,0,0,0,0,65,Miskin,PKH
+7,5046099,Permanen,PAM,Tidak Ada,Ada,Petani,Kontrak,0,0,1,0,0,1,0,40,Rentan Miskin,BLT
+6,2704070,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,0,0,0,1,80,Sangat Miskin,Bantuan Sembako
+5,1854700,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,1,0,0,1,0,0,50,Miskin,PKH
+4,3142420,Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+6,6233656,Semi Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+6,5309941,Permanen,PAM,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+6,4064640,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,0,1,0,0,55,Miskin,PKH
+1,9407063,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Kontrak,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+8,3255891,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,1,1,0,1,1,1,55,Miskin,PKH
+4,2052254,Semi Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,1,1,0,0,1,0,45,Rentan Miskin,BLT
+3,9895711,Permanen,Sungai,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,0,0,0,30,Rentan Miskin,BLT
+2,4107660,Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,0,1,1,0,1,0,55,Miskin,PKH
+1,2990247,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+5,8085061,Semi Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,0,0,1,1,0,30,Rentan Miskin,BLT
+2,4076616,Tidak Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,1,70,Sangat Miskin,Bantuan Sembako
+6,8440880,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+6,6861793,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,1,0,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+8,8971839,Semi Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+4,9802477,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,1,1,1,0,0,1,55,Miskin,PKH
+4,5897209,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+8,2882600,Semi Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,1,0,0,1,1,1,0,50,Miskin,PKH
+2,4488119,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Kontrak,1,0,0,1,0,1,1,75,Sangat Miskin,Bantuan Sembako
+4,1393703,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,0,50,Miskin,PKH
+6,3213734,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,1,0,1,1,70,Sangat Miskin,Bantuan Sembako
+6,9142159,Semi Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,0,1,0,40,Rentan Miskin,BLT
+2,4375622,Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,1,1,0,1,0,1,0,45,Rentan Miskin,BLT
+1,1785152,Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,0,1,0,0,1,0,55,Miskin,PKH
+8,3457596,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+4,687507,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,0,0,1,1,0,1,75,Sangat Miskin,Bantuan Sembako
+6,2928058,Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,1,0,0,0,60,Miskin,PKH
+5,1496661,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,0,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+1,7532911,Permanen,Sungai,Tidak Ada,Ada,Petani,Kontrak,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+4,3575976,Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+2,1675942,Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+5,6314838,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,0,0,1,1,0,0,0,50,Miskin,PKH
+1,4219546,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,1,1,0,0,1,1,60,Miskin,PKH
+7,2910636,Semi Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,1,0,55,Miskin,PKH
+6,4309025,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,0,1,0,1,0,1,80,Sangat Miskin,Bantuan Sembako
+4,9938947,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,1,1,0,1,40,Rentan Miskin,BLT
+5,9824398,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+8,4978202,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,0,0,0,0,0,50,Miskin,PKH
+4,1750786,Tidak Permanen,PAM,PLN,Ada,Petani,Sewa,1,1,0,1,1,0,1,65,Miskin,PKH
+7,714143,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,1,0,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+7,1462132,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,0,0,0,0,55,Miskin,PKH
+6,5577310,Semi Permanen,PAM,Listrik Non-PLN,Ada,Petani,Sewa,0,0,0,1,1,0,0,40,Rentan Miskin,BLT
+8,7266326,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,1,0,1,55,Miskin,PKH
+5,3730469,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,0,0,0,65,Miskin,PKH
+8,662448,Permanen,Sungai,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,0,0,0,65,Miskin,PKH
+7,5177148,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,0,0,1,1,45,Rentan Miskin,BLT
+4,3713319,Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,0,1,1,0,45,Rentan Miskin,BLT
+6,5238825,Tidak Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,1,1,1,0,1,1,50,Miskin,PKH
+5,4323124,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,1,0,0,0,65,Miskin,PKH
+1,6947039,Semi Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,0,1,0,25,Tidak Miskin,Tidak Layak Menerima
+6,7903545,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,0,1,1,45,Rentan Miskin,BLT
+6,4578374,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,0,1,0,0,0,50,Miskin,PKH
+6,3826189,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,0,0,1,0,0,0,70,Sangat Miskin,Bantuan Sembako
+3,7505454,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,0,0,1,1,55,Miskin,PKH
+4,9819858,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,1,1,0,0,30,Rentan Miskin,BLT
+1,844383,Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,1,0,0,1,1,0,0,55,Miskin,PKH
+6,4580475,Semi Permanen,PAM,PLN,Ada,Pegawai Swasta,Kontrak,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+3,6702323,Semi Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,8008688,Permanen,Sumur,Tidak Ada,Ada,Petani,Milik Sendiri,0,1,1,1,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+8,5349600,Tidak Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,0,1,1,0,1,1,60,Miskin,PKH
+2,8904762,Permanen,Sungai,PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,0,0,0,0,45,Rentan Miskin,BLT
+1,1635967,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,1,0,1,1,65,Miskin,PKH
+2,2329395,Permanen,Sungai,PLN,Ada,Petani,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+2,6881155,Tidak Permanen,PAM,Tidak Ada,Ada,Petani,Sewa,0,1,0,1,0,1,1,45,Rentan Miskin,BLT
+6,890105,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,1,0,1,0,45,Rentan Miskin,BLT
+1,9666049,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,0,0,0,40,Rentan Miskin,BLT
+5,1079420,Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,1,0,0,1,1,0,0,60,Miskin,PKH
+1,8508963,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,0,0,0,1,55,Miskin,PKH
+6,4146012,Tidak Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,1,1,0,0,1,1,1,60,Miskin,PKH
+1,505434,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,1,1,1,0,0,0,0,55,Miskin,PKH
+7,3222805,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,1,1,0,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+8,7392632,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+1,7980846,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+2,6634810,Semi Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,0,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+8,9719985,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Kontrak,0,0,0,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+2,4881755,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,0,0,1,1,1,30,Rentan Miskin,BLT
+7,2344884,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,0,0,0,65,Miskin,PKH
+7,4239670,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,0,1,1,0,0,50,Miskin,PKH
+2,8296642,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Sewa,0,1,1,1,0,0,1,55,Miskin,PKH
+8,3619219,Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,0,55,Miskin,PKH
+1,5644906,Tidak Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,1,0,1,55,Miskin,PKH
+3,2566269,Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Kontrak,1,0,1,1,1,0,0,55,Miskin,PKH
+4,7715386,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,0,1,1,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+6,6734548,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,0,1,0,0,1,0,1,50,Miskin,PKH
+3,9090928,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+2,9387436,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,1,0,1,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+1,9505165,Tidak Permanen,PAM,PLN,Ada,Pedagang Kecil,Kontrak,0,1,1,0,1,0,1,45,Rentan Miskin,BLT
+2,2744802,Tidak Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Sewa,1,1,0,1,1,1,1,55,Miskin,PKH
+5,7225643,Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,1,1,1,0,0,40,Rentan Miskin,BLT
+6,3601174,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,1,1,0,0,45,Rentan Miskin,BLT
+5,8362114,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,0,0,0,1,1,0,1,55,Miskin,PKH
+4,6199793,Permanen,PAM,PLN,Ada,Pegawai Swasta,Kontrak,0,0,0,0,0,0,0,45,Rentan Miskin,BLT
+1,2854110,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,0,1,0,0,1,0,55,Miskin,PKH
+6,6288857,Tidak Permanen,Sumur,PLN,Ada,Petani,Kontrak,0,1,1,0,0,0,1,60,Miskin,PKH
+2,3291501,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,1,1,1,0,0,55,Miskin,PKH
+2,6729841,Semi Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,0,1,0,0,0,35,Rentan Miskin,BLT
+1,1938830,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Petani,Milik Sendiri,1,1,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+8,1673643,Semi Permanen,Sungai,PLN,Ada,Pedagang Kecil,Kontrak,1,0,0,1,1,0,0,60,Miskin,PKH
+2,7242330,Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,7654927,Tidak Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,1,1,1,0,0,1,55,Miskin,PKH
+5,8845486,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,0,1,1,0,1,50,Miskin,PKH
+6,8250814,Semi Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,0,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,2104351,Tidak Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,1,1,60,Miskin,PKH
+1,9889563,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+8,5135633,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,0,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,8723683,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,0,1,1,1,0,0,1,55,Miskin,PKH
+4,3520858,Permanen,Sungai,PLN,Tidak Ada,Petani,Milik Sendiri,1,1,1,1,1,0,0,40,Rentan Miskin,BLT
+4,5387896,Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,0,1,0,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+3,3147148,Tidak Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,1,0,0,1,85,Sangat Miskin,Bantuan Sembako
+6,7529904,Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+1,9348314,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,1,0,0,0,40,Rentan Miskin,BLT
+2,7279987,Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Kontrak,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+2,716307,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+5,2206855,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Sewa,1,0,1,1,1,0,0,60,Miskin,PKH
+6,9654190,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,1,0,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+4,5964105,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pegawai Swasta,Kontrak,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+7,9594010,Permanen,Sungai,PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,1,0,0,30,Rentan Miskin,BLT
+2,6536428,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,0,0,0,1,0,20,Tidak Miskin,Tidak Layak Menerima
+8,8964810,Tidak Permanen,PAM,PLN,Tidak Ada,Petani,Kontrak,0,0,1,0,1,0,1,60,Miskin,PKH
+6,6767627,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,1,1,1,0,1,50,Miskin,PKH
+7,6430604,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+3,4401417,Tidak Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,1,1,0,1,65,Miskin,PKH
+4,2545742,Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,0,1,1,1,1,0,40,Rentan Miskin,BLT
+7,4237339,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,1,0,0,0,1,80,Sangat Miskin,Bantuan Sembako
+6,6714791,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Kontrak,0,1,0,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,1008472,Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,0,0,0,60,Miskin,PKH
+7,6599803,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,0,0,0,0,0,45,Rentan Miskin,BLT
+2,7986451,Tidak Permanen,Sumur,PLN,Tidak Ada,Petani,Kontrak,0,1,1,0,0,0,1,55,Miskin,PKH
+2,6452815,Semi Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,0,0,1,0,1,0,30,Rentan Miskin,BLT
+4,1631506,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Kontrak,1,0,1,1,1,1,1,65,Miskin,PKH
+3,4647942,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Sewa,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+7,2089358,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,0,1,0,0,55,Miskin,PKH
+3,2829169,Tidak Permanen,Sungai,PLN,Ada,Petani,Sewa,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+5,2509556,Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,0,0,0,60,Miskin,PKH
+7,3673764,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,0,0,50,Miskin,PKH
+3,6380915,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,0,0,1,0,35,Rentan Miskin,BLT
+8,3988471,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,0,0,1,0,0,50,Miskin,PKH
+5,2223025,Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,1,1,1,1,0,1,0,45,Rentan Miskin,BLT
+2,6793960,Semi Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,0,0,1,1,0,0,0,40,Rentan Miskin,BLT
+5,5011741,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,1,1,1,45,Rentan Miskin,BLT
+6,6350926,Permanen,PAM,Tidak Ada,Ada,Petani,Milik Sendiri,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+2,3016669,Permanen,Sungai,Tidak Ada,Ada,Petani,Milik Sendiri,1,1,0,0,1,1,0,30,Rentan Miskin,BLT
+5,4297796,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,1,0,0,0,60,Miskin,PKH
+5,5203934,Semi Permanen,Sumur,PLN,Tidak Ada,Petani,Milik Sendiri,0,1,0,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+8,6224958,Permanen,Sungai,PLN,Ada,Pedagang Kecil,Sewa,0,1,0,1,1,0,0,30,Rentan Miskin,BLT
+6,5212712,Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+5,6430140,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Kontrak,0,0,1,1,0,0,0,50,Miskin,PKH
+8,2503193,Semi Permanen,Sumur,Tidak Ada,Ada,Petani,Sewa,1,1,0,1,0,1,0,50,Miskin,PKH
+1,6218667,Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Kontrak,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+3,1992718,Semi Permanen,Sumur,PLN,Ada,Pedagang Kecil,Kontrak,1,1,1,0,0,0,0,55,Miskin,PKH
+8,2412766,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,0,1,1,0,45,Rentan Miskin,BLT
+7,2274723,Tidak Permanen,Sungai,PLN,Tidak Ada,Petani,Milik Sendiri,1,1,0,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+2,8904373,Semi Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,0,40,Rentan Miskin,BLT
+3,2739729,Tidak Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Kontrak,1,1,0,0,1,1,1,55,Miskin,PKH
+6,8023623,Tidak Permanen,Sumur,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,0,1,1,1,1,50,Miskin,PKH
+7,5547973,Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+8,8531970,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,1,1,1,1,1,1,35,Rentan Miskin,BLT
+5,4626154,Tidak Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,1,1,55,Miskin,PKH
+1,2996486,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Kontrak,1,1,0,1,0,1,1,65,Miskin,PKH
+6,5427066,Tidak Permanen,Sungai,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,0,0,1,65,Miskin,PKH
+6,9557492,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Kontrak,0,0,0,0,1,1,0,30,Rentan Miskin,BLT
+2,8304717,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,0,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+7,1397182,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,0,1,0,0,0,65,Miskin,PKH
+3,6839390,Permanen,Sungai,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+5,833164,Tidak Permanen,PAM,PLN,Tidak Ada,Pedagang Kecil,Sewa,1,1,1,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+4,4696314,Tidak Permanen,Sumur,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,1,0,1,40,Rentan Miskin,BLT
+5,4517799,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,0,0,0,50,Miskin,PKH
+2,8628966,Tidak Permanen,Sungai,PLN,Ada,Petani,Sewa,0,0,1,0,1,0,1,55,Miskin,PKH
+6,4284755,Tidak Permanen,Sungai,PLN,Ada,Petani,Kontrak,1,0,1,0,0,0,1,90,Sangat Miskin,Bantuan Sembako
+4,8613637,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+6,1011950,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+1,2611671,Semi Permanen,Sungai,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,1,0,1,0,0,1,0,55,Miskin,PKH
+5,2061796,Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,0,1,1,0,45,Rentan Miskin,BLT
+2,3796222,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+5,9435626,Tidak Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Milik Sendiri,0,0,1,0,0,1,1,55,Miskin,PKH
+4,1499782,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,1,1,1,1,1,0,0,45,Rentan Miskin,BLT
+2,3065441,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,1,1,0,1,0,0,40,Rentan Miskin,BLT
+5,1283850,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Kontrak,1,1,1,1,0,0,0,60,Miskin,PKH
+4,7399770,Tidak Permanen,Sungai,Tidak Ada,Ada,Petani,Milik Sendiri,0,0,0,1,0,1,1,50,Miskin,PKH
+6,1063404,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,1,1,0,0,0,0,0,60,Miskin,PKH
+8,7503316,Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Sewa,0,1,1,1,1,0,0,30,Rentan Miskin,BLT
+6,3817636,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,1,0,1,1,0,0,1,90,Sangat Miskin,Bantuan Sembako
+5,1811414,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,1,1,1,1,1,0,0,50,Miskin,PKH
+4,793503,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,1,0,0,1,0,0,0,65,Miskin,PKH
+4,6255537,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,0,0,1,0,1,55,Miskin,PKH
+6,4905581,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,0,0,1,1,0,1,1,60,Miskin,PKH
+5,3421943,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,1,1,0,1,0,1,70,Sangat Miskin,Bantuan Sembako
+6,6670506,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,0,0,0,1,0,1,60,Miskin,PKH
+6,9170407,Tidak Permanen,PAM,PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+8,5867700,Permanen,PAM,PLN,Ada,Pedagang Kecil,Sewa,0,0,1,0,1,0,0,40,Rentan Miskin,BLT
+8,8296332,Tidak Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Sewa,0,0,0,0,0,1,1,60,Miskin,PKH
+6,4052577,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,0,0,1,1,1,0,50,Miskin,PKH
+7,2207821,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,1,0,0,0,0,1,1,80,Sangat Miskin,Bantuan Sembako
+1,6234067,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,0,1,65,Miskin,PKH
+7,3590496,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,1,1,0,0,0,0,1,80,Sangat Miskin,Bantuan Sembako
+2,5243885,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,0,0,0,45,Rentan Miskin,BLT
+5,7603214,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,0,1,0,1,0,0,40,Rentan Miskin,BLT
+8,545766,Tidak Permanen,PAM,PLN,Ada,Petani,Kontrak,1,1,1,0,0,0,1,80,Sangat Miskin,Bantuan Sembako
+5,3697267,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+2,8119833,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+2,5852598,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+3,2019557,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,1,1,0,0,0,0,0,55,Miskin,PKH
+8,801507,Semi Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+5,1075241,Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,1,0,0,0,0,0,60,Miskin,PKH
+4,7353184,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+2,9860722,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,0,0,0,1,1,0,1,55,Miskin,PKH
+2,9134896,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,1,0,0,1,0,1,40,Rentan Miskin,BLT
+2,3736902,Permanen,Sungai,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,1,1,0,1,0,1,0,45,Rentan Miskin,BLT
+8,2051659,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,1,0,1,1,0,0,45,Rentan Miskin,BLT
+2,1267332,Semi Permanen,PAM,Listrik Non-PLN,Ada,Petani,Kontrak,1,0,0,0,1,0,0,55,Miskin,PKH
+3,7092633,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,0,0,0,0,1,55,Miskin,PKH
+2,1020212,Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,0,1,0,1,0,55,Miskin,PKH
+8,8378454,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+8,2314371,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+2,1552452,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,1,0,1,0,1,0,0,50,Miskin,PKH
+4,6744707,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,0,1,0,0,1,50,Miskin,PKH
+2,4202864,Tidak Permanen,PAM,Tidak Ada,Ada,Petani,Kontrak,1,1,1,0,0,1,1,65,Miskin,PKH
+5,4166921,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,0,0,70,Sangat Miskin,Bantuan Sembako
+7,8526613,Semi Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,1,0,0,0,0,0,40,Rentan Miskin,BLT
+5,4005324,Tidak Permanen,PAM,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,0,1,1,75,Sangat Miskin,Bantuan Sembako
+5,3694774,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,1,1,70,Sangat Miskin,Bantuan Sembako
+2,6618365,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Kontrak,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+1,5201800,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+1,742693,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,1,1,1,0,1,1,65,Miskin,PKH
+7,5006960,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Sewa,0,0,1,1,1,1,0,30,Rentan Miskin,BLT
+6,6146715,Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,0,1,0,1,0,35,Rentan Miskin,BLT
+1,6719256,Semi Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+8,2690499,Semi Permanen,Sumur,Tidak Ada,Ada,Buruh Harian Lepas,Kontrak,1,0,1,1,1,1,0,50,Miskin,PKH
+6,8084209,Tidak Permanen,Sungai,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+4,6400080,Permanen,PAM,Listrik Non-PLN,Ada,Petani,Sewa,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+8,9006493,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+2,3802345,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,1,0,0,50,Miskin,PKH
+3,8984076,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+4,9430981,Tidak Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,0,0,1,1,0,1,55,Miskin,PKH
+1,4794132,Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,1,0,0,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+8,7831564,Permanen,Sumur,PLN,Ada,Petani,Kontrak,0,0,1,0,0,0,0,50,Miskin,PKH
+2,8745087,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+4,6504770,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,0,1,1,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+4,8546676,Tidak Permanen,Sungai,PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,0,0,1,50,Miskin,PKH
+2,2163549,Semi Permanen,Sumur,PLN,Ada,Pegawai Swasta,Milik Sendiri,1,0,0,1,0,0,0,60,Miskin,PKH
+3,5911217,Semi Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,0,1,1,0,1,0,35,Rentan Miskin,BLT
+6,2232920,Tidak Permanen,Sumur,PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,1,0,1,75,Sangat Miskin,Bantuan Sembako
+2,2456993,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Milik Sendiri,1,1,0,0,0,1,0,40,Rentan Miskin,BLT
+4,1367850,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,0,0,0,0,0,55,Miskin,PKH
+6,3832765,Semi Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,1,1,1,0,1,0,0,50,Miskin,PKH
+1,2976283,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,1,1,0,1,0,0,1,75,Sangat Miskin,Bantuan Sembako
+2,9089422,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,0,1,1,0,1,1,0,10,Tidak Miskin,Tidak Layak Menerima
+2,8431948,Permanen,PAM,PLN,Tidak Ada,Petani,Sewa,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+8,4424319,Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,0,1,0,1,1,0,50,Miskin,PKH
+1,5629729,Semi Permanen,Sungai,Tidak Ada,Ada,Pegawai Swasta,Sewa,0,1,1,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+2,4165787,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Sewa,1,1,0,0,1,1,1,55,Miskin,PKH
+8,3102113,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,0,1,0,0,1,90,Sangat Miskin,Bantuan Sembako
+8,9790030,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,0,0,1,0,0,35,Rentan Miskin,BLT
+6,8624641,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,0,0,0,0,0,1,70,Sangat Miskin,Bantuan Sembako
+6,948066,Tidak Permanen,PAM,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,1,0,1,1,0,1,65,Miskin,PKH
+8,9133441,Semi Permanen,Sumur,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,0,1,1,1,0,1,0,30,Rentan Miskin,BLT
+1,3512257,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,1,0,1,0,0,0,55,Miskin,PKH
+5,5868759,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Sewa,0,1,1,1,1,0,0,30,Rentan Miskin,BLT
+3,3309419,Tidak Permanen,Sungai,Tidak Ada,Ada,Pedagang Kecil,Kontrak,1,1,1,1,1,1,1,55,Miskin,PKH
+8,1666995,Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Sewa,1,0,0,0,1,0,0,60,Miskin,PKH
+8,1489644,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Milik Sendiri,1,1,0,0,0,0,1,75,Sangat Miskin,Bantuan Sembako
+8,6151635,Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,0,1,0,0,0,0,0,40,Rentan Miskin,BLT
+2,9704728,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,1,0,1,0,1,50,Miskin,PKH
+5,2509625,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,1,0,0,1,1,0,0,60,Miskin,PKH
+6,8923186,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Kontrak,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+1,916977,Semi Permanen,Sumur,PLN,Tidak Ada,Pegawai Swasta,Kontrak,1,0,0,0,0,0,0,65,Miskin,PKH
+7,8835019,Permanen,PAM,Tidak Ada,Ada,Pedagang Kecil,Sewa,0,1,1,0,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+4,3083830,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Kontrak,1,1,1,1,1,1,1,55,Miskin,PKH
+7,4136869,Semi Permanen,PAM,Tidak Ada,Ada,Pegawai Swasta,Sewa,1,1,0,1,1,1,0,40,Rentan Miskin,BLT
+6,7170121,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,1,0,0,1,0,1,45,Rentan Miskin,BLT
+3,7993806,Tidak Permanen,Sumur,PLN,Ada,Pegawai Swasta,Milik Sendiri,0,1,1,1,0,0,1,50,Miskin,PKH
+4,4707193,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,1,0,0,0,0,35,Rentan Miskin,BLT
+8,5334421,Tidak Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,0,0,1,1,1,0,1,55,Miskin,PKH
+2,5617229,Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Sewa,0,0,1,1,1,0,0,35,Rentan Miskin,BLT
+7,4387326,Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,1,0,1,0,0,0,55,Miskin,PKH
+4,6167857,Permanen,Sungai,PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,0,1,0,0,0,0,40,Rentan Miskin,BLT
+5,1352715,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Pegawai Swasta,Kontrak,1,0,1,0,0,1,1,80,Sangat Miskin,Bantuan Sembako
+3,6997937,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,0,1,0,0,0,1,65,Miskin,PKH
+7,9332129,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Milik Sendiri,0,1,1,1,0,0,0,35,Rentan Miskin,BLT
+5,9051101,Semi Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,0,0,0,35,Rentan Miskin,BLT
+3,5977258,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,0,0,0,40,Rentan Miskin,BLT
+7,1330866,Tidak Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Sewa,1,0,0,1,1,0,1,80,Sangat Miskin,Bantuan Sembako
+3,5035899,Permanen,PAM,Listrik Non-PLN,Ada,Pegawai Swasta,Sewa,0,0,1,0,1,0,0,35,Rentan Miskin,BLT
+1,6531539,Tidak Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Sewa,0,0,0,1,0,0,1,65,Miskin,PKH
+2,3996915,Semi Permanen,PAM,PLN,Tidak Ada,Pegawai Swasta,Sewa,1,0,0,1,0,0,0,65,Miskin,PKH
+6,2700130,Permanen,Sungai,Tidak Ada,Ada,Petani,Sewa,1,0,0,0,0,1,0,60,Miskin,PKH
+7,2855858,Permanen,PAM,PLN,Ada,Pegawai Swasta,Sewa,1,1,0,0,1,0,0,50,Miskin,PKH
+3,3001495,Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Kontrak,1,1,0,0,0,1,0,45,Rentan Miskin,BLT
+8,2488844,Semi Permanen,Sumur,Tidak Ada,Ada,Pegawai Swasta,Kontrak,1,1,0,1,0,1,0,50,Miskin,PKH
+7,8873436,Permanen,Sumur,Tidak Ada,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,0,0,1,0,1,1,0,25,Tidak Miskin,Tidak Layak Menerima
+1,6101020,Semi Permanen,PAM,Tidak Ada,Tidak Ada,Pedagang Kecil,Sewa,0,1,0,1,1,1,0,15,Tidak Miskin,Tidak Layak Menerima
+3,1059711,Semi Permanen,PAM,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,0,0,0,0,60,Miskin,PKH
+6,7498770,Semi Permanen,Sumur,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,1,1,0,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+5,5816001,Permanen,Sumur,PLN,Tidak Ada,Buruh Harian Lepas,Kontrak,0,1,1,1,0,0,0,40,Rentan Miskin,BLT
+3,6344459,Tidak Permanen,Sungai,PLN,Tidak Ada,Petani,Kontrak,0,1,1,1,1,0,1,45,Rentan Miskin,BLT
+3,8455645,Permanen,Sungai,Listrik Non-PLN,Ada,Petani,Milik Sendiri,0,0,1,1,1,0,0,30,Rentan Miskin,BLT
+4,8497271,Semi Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pedagang Kecil,Kontrak,0,0,0,1,0,0,0,45,Rentan Miskin,BLT
+4,3945319,Tidak Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,0,0,1,1,1,1,60,Miskin,PKH
+8,7189249,Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,0,1,0,1,0,0,0,40,Rentan Miskin,BLT
+8,3272573,Tidak Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Kontrak,1,0,1,0,1,0,1,80,Sangat Miskin,Bantuan Sembako
+5,3911697,Semi Permanen,Sungai,PLN,Tidak Ada,Buruh Harian Lepas,Milik Sendiri,1,0,1,1,0,0,0,65,Miskin,PKH
+1,5489846,Permanen,PAM,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,1,1,1,0,0,30,Rentan Miskin,BLT
+8,3355674,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,0,0,0,0,0,65,Miskin,PKH
+5,1709662,Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,1,1,1,1,1,1,0,40,Rentan Miskin,BLT
+3,5744462,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Sewa,0,1,1,1,1,0,0,25,Tidak Miskin,Tidak Layak Menerima
+3,2829569,Permanen,Sungai,Listrik Non-PLN,Tidak Ada,Petani,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+3,8607017,Semi Permanen,Sumur,Listrik Non-PLN,Tidak Ada,Pegawai Swasta,Milik Sendiri,0,0,0,0,0,0,0,40,Rentan Miskin,BLT
+1,1153899,Semi Permanen,PAM,Listrik Non-PLN,Ada,Buruh Harian Lepas,Sewa,1,0,0,1,0,0,0,65,Miskin,PKH
+2,1138696,Semi Permanen,Sungai,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,1,1,0,0,0,0,50,Miskin,PKH
+5,6865843,Tidak Permanen,PAM,Tidak Ada,Tidak Ada,Pegawai Swasta,Sewa,0,0,0,0,0,1,1,60,Miskin,PKH
+7,1700848,Tidak Permanen,Sumur,PLN,Ada,Petani,Sewa,1,1,1,1,0,0,1,80,Sangat Miskin,Bantuan Sembako
+5,7491378,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Kontrak,0,1,1,1,1,1,0,20,Tidak Miskin,Tidak Layak Menerima
+3,1789011,Permanen,Sumur,PLN,Ada,Petani,Kontrak,1,1,1,0,1,0,0,45,Rentan Miskin,BLT
+1,568167,Tidak Permanen,Sumur,Tidak Ada,Tidak Ada,Petani,Kontrak,1,0,1,0,0,1,1,75,Sangat Miskin,Bantuan Sembako
+4,2904512,Permanen,Sungai,Tidak Ada,Tidak Ada,Petani,Milik Sendiri,1,1,1,1,1,1,0,30,Rentan Miskin,BLT
+4,8936162,Semi Permanen,Sumur,PLN,Ada,Buruh Harian Lepas,Milik Sendiri,0,1,0,0,1,0,0,20,Tidak Miskin,Tidak Layak Menerima
+3,7513239,Permanen,PAM,PLN,Ada,Pedagang Kecil,Milik Sendiri,0,0,1,1,0,0,0,40,Rentan Miskin,BLT
+5,2613282,Permanen,PAM,Tidak Ada,Tidak Ada,Petani,Sewa,1,1,0,0,1,1,0,40,Rentan Miskin,BLT
+2,2975128,Tidak Permanen,Sungai,PLN,Ada,Pedagang Kecil,Sewa,1,0,1,0,0,0,1,85,Sangat Miskin,Bantuan Sembako
+7,618658,Permanen,Sumur,Listrik Non-PLN,Ada,Pedagang Kecil,Milik Sendiri,1,0,1,1,0,0,0,65,Miskin,PKH
+5,1815512,Semi Permanen,Sumur,PLN,Ada,Petani,Kontrak,1,0,0,0,1,0,0,60,Miskin,PKH
