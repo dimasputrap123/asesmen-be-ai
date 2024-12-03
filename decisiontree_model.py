@@ -11,7 +11,7 @@ data = pd.read_csv(file_path)
 data.columns = data.columns.str.strip()
 
 # ubah kolom pendapatan ke string
-tmp = []
+tmp_pendapatan = []
 for item in data['pendapatan']:
   if item < 1000000:
     txt = 'dibawah 1jt'
@@ -20,13 +20,32 @@ for item in data['pendapatan']:
   elif item >= 5000000 and item < 10000000:
     txt = 'antara 5jt dan dibawah 10jt'
   else:
-    txt = 'minimal 10jt'
-  tmp.append(txt)
+    txt = 'maksimal 10jt'
+  tmp_pendapatan.append(txt)
 
-data['pendapatan'] = tmp 
+data['pendapatan'] = tmp_pendapatan
+
+# ubah kolom anggota kk ke string
+tmp_anggotakk = []
+for item in data['anggota_kk']:
+  if item == 1:
+    txt = 'kk tunggal'
+  elif item == 2:
+    txt = '2 anggota kk'
+  elif item == 3:
+    txt = '3 anggota kk'
+  elif item == 4:
+    txt = '4 anggota kk'
+  elif item > 4:
+    txt = 'lebih dari 4 anggota kk'
+  else:
+    txt = 'tidak ada anggota'
+  tmp_anggotakk.append(txt) 
+
+data['anggota_kk'] = tmp_anggotakk
 
 # encode kolom yang mengandung string ke numerik
-column_encoder=['kondisi_rumah','pendapatan','sumber_air_minum','akses_listrik','kepemilikan_aset','pekerjaan','status_kepemilikan_rumah','kategori_asesmen','rekomendasi_bantuan']
+column_encoder=['anggota_kk','kondisi_rumah','pendapatan','sumber_air_minum','akses_listrik','kepemilikan_aset','pekerjaan','status_kepemilikan_rumah','kategori_asesmen','rekomendasi_bantuan']
 encoders = {}
 
 for col in data.columns:
@@ -77,51 +96,3 @@ print("classification report label kategori_asesmen:", classification_ka)
 print("classification report label rekomendasi_bantuan:", classification_rb)
 print("confusion matrix label kategori_asesmen:", confusion_matrix_ka)
 print("confusion matrix label rekomendasi_bantuan:", confusion_matrix_rb)
-
-def predict_asesmen_rekomendasi(input_data):
-    """
-    Fungsi untuk memprediksi kategori_asesmen dan rekomendasi_bantuan berdasarkan input pengguna.
-
-    Parameters:
-        input_data (dict): Data input dari pengguna dalam bentuk dictionary.
-
-    Returns:
-        dict: Prediksi kategori_asesmen dan rekomendasi_bantuan.
-    """
-    # Konversi input pengguna ke DataFrame
-    input_df = pd.DataFrame([input_data])
-    
-    # Prediksi kategori_asesmen
-    pred_kategori_asesmen = model_kategori_asesmen.predict(input_df)[0]
-    
-    # Prediksi rekomendasi_bantuan
-    pred_rekomendasi_bantuan = model_rekomendasi_bantuan.predict(input_df)[0]
-    
-    return {
-        'kategori_asesmen': encoders['kategori_asesmen'].inverse_transform([pred_kategori_asesmen])[0],
-        'rekomendasi_bantuan': encoders['rekomendasi_bantuan'].inverse_transform([pred_rekomendasi_bantuan])[0]
-    }
-
-user_input = {
-    'anggota_kk': 1,
-    'pendapatan': 1,
-    'kondisi_rumah': 2,
-    'sumber_air_minum': 1,
-    'akses_listrik': 2,
-    'kepemilikan_aset': 1,
-    'pekerjaan': 2,
-    'status_kepemilikan_rumah': 0,
-    'penghasilan_dibawah_ump': 0,
-    'aset_produktif': 1,
-    'akses_pendidikan': 0,
-    'akses_kesehatan': 0,
-    'akses_sanitasi': 1,
-    'akses_listrik_ump': 1,
-    'rumah_tidak_layak_huni': 1,
-}
-
-# Prediksi hasil
-hasil_prediksi = predict_asesmen_rekomendasi(user_input)
-print("Hasil Prediksi:")
-print("Kategori Asesmen:", hasil_prediksi['kategori_asesmen'])
-print("Rekomendasi Bantuan:", hasil_prediksi['rekomendasi_bantuan'])
